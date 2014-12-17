@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib_4_5/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/icu4j-49.1.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-analyzers-common-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-analyzers-kuromoji-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-analyzers-phonetic-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-codecs-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-core-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-grouping-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-highlighter-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-join-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-memory-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-misc-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-queries-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-queryparser-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-spatial-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/lucene-suggest-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib_4_5/spatial4j-0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
