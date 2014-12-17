@@ -97,7 +97,6 @@ public class testJoin {
 		try {
 			fetchDateRange();
 		} catch (IOException | ParseException |java.text.ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} 
 
